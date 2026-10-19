@@ -1,0 +1,6 @@
+{
+  "name": "Dust & Dunes - Isometric Desert Driver",
+  "description": "A high-octane low-poly isometric desert driving sandbox with responsive drifting, destructible cacti and crates, swinging gates, physics tumbleweeds, and chaos mayhem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
